@@ -1,0 +1,30 @@
+.succes {
+	FONT-FAMILY: "Verdana, Arial, Helvetica, sans-serif";
+	font-weight: normal;
+	color: green;
+	font-style: italic;
+}
+
+.error {
+	FONT-FAMILY: "Verdana, Arial, Helvetica, sans-serif";
+	font-weight: normal;
+	color: red;
+	font-style: italic;
+}
+
+.needed-field {
+	border-bottom-color: red;
+	border-right-color: red;
+	border-left-color: red;
+	border-top-color: red;
+	border-width: 2px;
+}
+
+.succes-field {
+	border-bottom-color: green;
+	border-right-color: green;
+	border-left-color: green;
+	border-top-color: green;
+	border-width: 2px;
+}
+
